@@ -14,6 +14,8 @@ Personal Details
 * **Name:** Junteng Liu
 * **Current Position:** First-year PhD candidate at HKUST NLP Group
 * **Affiliation:** Hong Kong University of Science and Technology
+* **PhD Supervisor:** Professor Junxian He
+* **Research Focus:** Natural Language Processing and Machine Learning
 
 Research Interests
 ======
